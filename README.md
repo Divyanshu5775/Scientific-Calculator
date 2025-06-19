@@ -2,7 +2,8 @@
 
 A sleek and powerful scientific calculator built with **Python** and **PyQt5**, featuring a dark-themed GUI, expression history, trigonometric modes, and advanced math functions.
 
-![screenshot](assets/scientific calculator.png)
+
+
 
 ---
 
